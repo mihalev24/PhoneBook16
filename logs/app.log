@@ -1,0 +1,9 @@
+2024-12-16T02:24:55,244 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 1 контактами.
+2024-12-16T02:24:55,513 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T02:24:55,513 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T02:24:55,515 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T02:25:12,481 [JavaFX Application Thread] INFO : Показаны все контакты
+2024-12-16T02:25:12,483 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T02:25:12,483 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T02:25:12,484 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T02:25:15,402 [JavaFX Application Thread] WARN : Контакт не выбран!
