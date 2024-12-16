@@ -62,3 +62,84 @@
 2024-12-16T14:39:42,350 [JavaFX Application Thread] DEBUG: Обновление списка контактов
 2024-12-16T14:39:42,350 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
 2024-12-16T14:39:42,356 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T17:26:01,958 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 1 контактами.
+2024-12-16T17:26:02,242 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T17:26:02,242 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T17:26:02,248 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T18:50:50,984 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 1 контактами.
+2024-12-16T18:50:51,313 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T18:50:51,313 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T18:50:51,315 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T18:53:24,038 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 1 контактами.
+2024-12-16T18:53:24,293 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T18:53:24,293 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T18:53:24,296 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T19:00:16,026 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 1 контактами.
+2024-12-16T19:00:16,290 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:00:16,290 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:00:16,293 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T19:00:20,529 [JavaFX Application Thread] WARN : Контакт не выбран!
+2024-12-16T19:00:21,065 [JavaFX Application Thread] WARN : Контакт не выбран!
+2024-12-16T19:07:50,520 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 1 контактами.
+2024-12-16T19:07:50,818 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:07:50,818 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:07:50,824 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T19:07:57,190 [JavaFX Application Thread] INFO : Открыто окно для добавления нового контакта
+2024-12-16T19:08:15,958 [JavaFX Application Thread] INFO : Попытка добавить контакт: Владимирский Артем с номером 8 999 657 87 89 (Мобильный)
+2024-12-16T19:08:15,959 [JavaFX Application Thread] INFO : Контакт добавлен успешно: Владимирский Артем
+2024-12-16T19:08:15,974 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:08:15,977 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:08:15,978 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:08:15,978 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:08:15,978 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 4
+2024-12-16T19:08:23,576 [JavaFX Application Thread] INFO : Попытка добавить номер 432-45-65 (Домашний) к контакту Владимирский Артем
+2024-12-16T19:08:23,577 [JavaFX Application Thread] INFO : Номер 432-45-65 (Домашний) успешно добавлен к контакту Владимирский Артем
+2024-12-16T19:08:23,578 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:08:23,579 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:08:23,595 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:08:23,597 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:48:38,873 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 2 контактами.
+2024-12-16T19:48:39,125 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:48:39,125 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:48:39,132 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 4
+2024-12-16T19:50:24,559 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 0 контактами.
+2024-12-16T19:50:24,851 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:50:24,851 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:50:24,853 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 0
+2024-12-16T19:50:27,009 [JavaFX Application Thread] WARN : Контакт не выбран!
+2024-12-16T19:52:53,066 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 0 контактами.
+2024-12-16T19:52:53,322 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:52:53,322 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:52:53,324 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 0
+2024-12-16T19:52:59,355 [JavaFX Application Thread] INFO : Открыто окно для добавления нового контакта
+2024-12-16T19:53:18,360 [JavaFX Application Thread] INFO : Попытка добавить контакт: Корнеску Михаил с номером 8 999 65 78 99 (Мобильный)
+2024-12-16T19:53:18,363 [JavaFX Application Thread] INFO : Контакт добавлен успешно: Корнеску Михаил
+2024-12-16T19:53:18,379 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:53:18,392 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:53:18,392 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:53:18,392 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:53:18,394 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 2
+2024-12-16T19:53:26,913 [JavaFX Application Thread] INFO : Попытка добавить номер 321-54-33 (Домашний) к контакту Корнеску Михаил
+2024-12-16T19:53:26,915 [JavaFX Application Thread] INFO : Номер 321-54-33 (Домашний) успешно добавлен к контакту Корнеску Михаил
+2024-12-16T19:53:26,915 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:53:26,916 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:53:26,930 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:53:26,931 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:53:27,839 [JavaFX Application Thread] INFO : Открыто окно для добавления нового контакта
+2024-12-16T19:53:36,159 [JavaFX Application Thread] INFO : Попытка добавить контакт: Артем с номером 123456789 (Рабочий)
+2024-12-16T19:53:36,161 [JavaFX Application Thread] INFO : Контакт добавлен успешно: Артем
+2024-12-16T19:53:36,172 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:53:36,173 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:53:36,173 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:53:36,173 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:53:36,174 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 4
+2024-12-16T19:53:48,792 [JavaFX Application Thread] INFO : Попытка добавить номер 8 (999) 567-99-76 (Мобильный) к контакту Артем
+2024-12-16T19:53:48,793 [JavaFX Application Thread] INFO : Номер 8 (999) 567-99-76 (Мобильный) успешно добавлен к контакту Артем
+2024-12-16T19:53:48,793 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:53:48,795 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:53:48,809 [JavaFX Application Thread] INFO : Сохранение контактов...
+2024-12-16T19:53:48,810 [JavaFX Application Thread] INFO : Контакты успешно сохранены.
+2024-12-16T19:54:01,772 [JavaFX Application Thread] INFO : Инициализирован менеджер контактов с 2 контактами.
+2024-12-16T19:54:02,024 [JavaFX Application Thread] DEBUG: Обновление списка контактов
+2024-12-16T19:54:02,025 [JavaFX Application Thread] INFO : Получение отсортированного списка контактов...
+2024-12-16T19:54:02,031 [JavaFX Application Thread] INFO : Список контактов отсортирован. Количество групп: 4

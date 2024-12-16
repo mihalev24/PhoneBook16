@@ -1,10 +1,10 @@
 plugins {
     id 'java'
     id 'application'
+    id 'com.github.johnrengelman.shadow' version '8.1.1'
     id 'org.javamodularity.moduleplugin' version '1.8.12'
     id 'org.openjfx.javafxplugin' version '0.0.13'
     id 'org.beryx.jlink' version '2.25.0'
-    id 'com.github.johnrengelman.shadow' version '8.1.1'
 }
 
 group 'org.example'
@@ -78,14 +78,18 @@ jlinkZip {
 
 jar {
     manifest {
-        attributes  'Main-Class': 'org.example.Launcher',
+        attributes(
+                'Main-Class': 'org.example.Launcher',
                 'Module-Name': 'org.example'
+        )
     }
 }
 
+
 shadowJar {
-    archiveBaseName = 'gradlekursach'
-    archiveVersion = '1.1'
+    archiveBaseName = 'phonebook'
+    archiveVersion = '1'
+    archiveClassifier = 'all'
     manifest {
         attributes(
                 'Main-Class': 'org.example.Launcher',
