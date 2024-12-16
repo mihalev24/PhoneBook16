@@ -14,7 +14,7 @@ set APP_BASE_NAME=%~n0
 set APP_HOME=%DIRNAME%..
 
 @rem Add default JVM options here. You can also use JAVA_OPTS and GRADLE_FX_OPTS to pass JVM options to this script.
-set DEFAULT_JVM_OPTS="--module-path" "/Users/mihailk/javafx-sdk-21.0.5/lib" "--add-modules" "javafx.controls,javafx.fxml"
+set DEFAULT_JVM_OPTS=
 
 @rem Find java.exe
 if defined JAVA_HOME goto findJavaFromJavaHome
@@ -63,7 +63,7 @@ set CMD_LINE_ARGS=%*
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\phonebook-1.1-all.jar
+set CLASSPATH=%APP_HOME%\lib\gradlekursach-1.1-all.jar
 
 @rem Execute gradleFX
 "%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %GRADLE_FX_OPTS%  -jar "%CLASSPATH%" %CMD_LINE_ARGS%

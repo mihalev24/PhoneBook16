@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
-Main-Class: org.example.PhoneBookApp
+Main-Class: org.example.Launcher
+Module-Name: org.example
 

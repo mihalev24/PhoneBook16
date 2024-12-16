@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="org.example.PhoneBookApp">
+    <top>
+        <!-- Панель инструментов с кнопкой -->
+        <ToolBar>
+            <Button text="Выбрать каталог" onAction="#onChooseDirectory" />
+        </ToolBar>
+    </top>
+    <center>
+        <!-- Дерево файлов -->
+        <TreeView fx:id="fileTreeView" />
+    </center>
+</BorderPane>
